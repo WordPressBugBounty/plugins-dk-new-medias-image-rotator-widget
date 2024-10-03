@@ -1,0 +1,1 @@
+# plugins-dk-new-medias-image-rotator-widget
